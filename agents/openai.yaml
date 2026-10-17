@@ -1,0 +1,6 @@
+interface:
+  display_name: "xxnature 研究写作与返工"
+  short_description: "以一条贯通的主线组织写作，呈现研究者的思考感与自然论证"
+  default_prompt: "使用 $xxnature，以一条贯通的主线组织文稿，让读者看清为什么选择、结果意味着什么、下一步据此怎么做。"
+policy:
+  allow_implicit_invocation: true
